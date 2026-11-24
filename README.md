@@ -2,16 +2,14 @@
 
 Welcome to my Python Projects repository!
 
-This repository contains beginner-level Python projects I developed as part of my ongoing journey of learning and improving my Python programming skills.
+This repository documents my Python programming journey through practical projects. It includes beginner and intermediate projects that help me apply concepts, improve my problem-solving skills, and gain hands-on experience.
 
-These projects allowed me to apply the Python concepts I had learned so far, strengthen my understanding through practical implementation, and gain hands-on programming experience.
+## 1. Beginner Projects
 
-I will continue adding projects as I learn and explore more advanced Python concepts.
-
-## Projects
+These projects helped me practise Python fundamentals.
 
 ### 1. Simple Calculator
-A command-line calculator that performs basic mathematical operations.
+A command-line calculator that performs mathematical operations.
 
 **Features:**
 - Addition, subtraction, multiplication and division
@@ -48,6 +46,18 @@ A command-line application that generates random passwords using Python's `secre
 - Validate user input
 - Generate multiple passwords
 
+## 2. Intermediate Projects
+
+These projects will help me explore additional Python concepts and develop practical programming skills.
+
+**Planned projects:**
+
+1. File Management System
+2. Log File Analyzer
+3. File Integrity Checker
+4. Basic Network Scanner
+5. System Information Collector
+
 ## Concepts Applied
 
 - Variables and data types
@@ -66,4 +76,4 @@ A command-line application that generates random passwords using Python's `secre
 
 ## Purpose
 
-The purpose of this repository is to document my Python learning journey through practical projects and continuously improve my programming skills.
+The purpose of this repository is to document my Python learning journey, apply programming concepts through practical projects, and continuously improve my skills.
