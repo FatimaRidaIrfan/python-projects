@@ -1,0 +1,9 @@
+
+INFO: Application started
+INFO: User logged in
+WARNING: Disk space is getting low
+ERROR: Unable to connect to database
+INFO: File uploaded successfully
+ERROR: File not found
+WARNING: High memory usage detected
+INFO: Application closed

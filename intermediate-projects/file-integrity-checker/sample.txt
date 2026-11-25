@@ -1,0 +1,5 @@
+
+This is a sample file for the File Integrity Checker project.
+I am learning Python and cybersecurity.
+SHA-256 helps detect changes in file contents.
+hellooo
